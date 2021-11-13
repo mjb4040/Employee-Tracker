@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-# Video 
+## Video 
 
 https://www.youtube.com/watch?v=LbDeob-HALI
 
