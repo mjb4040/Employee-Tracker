@@ -1,5 +1,9 @@
 # Employee-Tracker
 
+## Repo Link 
+
+https://github.com/mjb4040/Employee-Tracker
+
 ## Video 
 
 https://www.youtube.com/watch?v=LbDeob-HALI
